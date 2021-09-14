@@ -18,8 +18,8 @@ Dataset & System Requirements:
 
 •	Public Source: Inside Air BnB
 •	To run the notebook, please refer to google drive links below:
-	Part A and Part B
-	Part C (uses output from Part A and Part B stored in pickle file format) 
+  i. 	Part A and Part B
+  ii.	Part C (uses output from Part A and Part B stored in pickle file format) 
 •	System Requirements: requirement.txt
 
 Example from the Notebook: 
