@@ -16,15 +16,15 @@ To run the entire notebook, please download the data from the link below, or dir
 
 Dataset & System Requirements:
 
-•	Public Source: Inside Air BnB
+•	Public Source: [Inside Air BnB](http://insideairbnb.com/get-the-data.html)
 
 •	To run the notebook, please refer to google drive links below:
 
-  i. 	Part A and Part B
+  i. 	[Part A and Part B](https://drive.google.com/drive/u/2/folders/1D5s0HkqLNU3fCHMxfM132sB5qbDyMZuQ)
   
-  ii.	Part C (uses output from Part A and Part B stored in pickle file format) 
+  ii.	[Part C](https://drive.google.com/drive/u/2/folders/1A-t_QZN-S3QrUiv5M7rFEGi9xhpW4Nx3) (uses output from Part A and Part B stored in pickle file format) 
   
-•	System Requirements: requirement.txt
+•	System Requirements: [requirement.txt](https://drive.google.com/file/d/1rItfLCTA5942t_YIjbAnCwec8yQPnGbz/view)
 
 Example from the Notebook: 
 
